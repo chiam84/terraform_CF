@@ -1,4 +1,4 @@
-Vision:To export configurations from a Cloudflare zone and import into another zone as part of IaC or in the event where or issue with the cloudflare admin console or etc.
+Vision: To export configurations from a Cloudflare zone and import into another zone as part of IaC or in the event where or issue with the cloudflare admin console or etc.
 
 Pre-requites/set up for the export process using cf-terraforming:
 
