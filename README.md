@@ -3,7 +3,7 @@ Vision: To export configurations from a Cloudflare zone and create another zone 
 Pre-requites/set up for the export process using cf-terraforming:
 
 1. Ensure you have access to the Cloudflare accounts such as sandbox, UAT, production.
-2. Install terraform.
+2. Install terraform on your local drive.
 3. Install the cf-terraforming command line utility from this link: https://github.com/cloudflare/cf-terraforming/releases
 4. Create an API token with permissions granted in the zone, account and user. As best practice, create an API token for each different environment so that it is easier for troubleshooting purposes.
 5. Ensure that the zone marked for export is an active zone as it will affect the cf-terraforming command.
