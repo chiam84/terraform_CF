@@ -68,7 +68,7 @@ sample export cf-terraforming to input in CMD:
 cf-terraforming generate --email CLOUDFLARE_EMAIL --token CLOUDFLARE_API_TOKEN --zone cfzoneID -- resource-type "cloudflare_record" > [exporting-filename.tf](http://exporting-filename.tf/)
 
 Sample .tf file output will look like this in notepad++
-![image](https://github.com/chiam84/terraform_cloudflare/assets/143675741/56b7056b-4f0e-44ec-a9af-2ead293fc475)
+
 
 The following resources are not supported by terraform to generate or import configurations from CloudFlare:
 <html><body>
