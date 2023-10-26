@@ -11,6 +11,7 @@ Pre-requites/set up for the export process using cf-terraforming:
 
 Ensure that step 4 there is either Read or Edit permissions granted in the API token before moving on the step 5.
 Below is a screenshot of all the permissions in the API token set up in order to run cf-terraforming.
+![image](https://github.com/chiam84/terraform_cloudflare/assets/143675741/24b6a21a-65cf-4792-bf62-816d76c7d510)
 
 Some of the resources that can be exported using cf-terraforming:
 <html><body>
