@@ -66,7 +66,9 @@ cloudflare_zone_settings_override | Zone
 </html>
 
 The command below will help to create a .tf file which is the exported config file in the directory where terraform is installed.
+
 sample export cf-terraforming to input in CMD:
+
 cf-terraforming generate --email CLOUDFLARE_EMAIL --token CLOUDFLARE_API_TOKEN --zone cfzoneID -- resource-type "cloudflare_record" > [exporting-filename.tf](http://exporting-filename.tf/)
 
 Sample .tf file output will look like this in notepad++
