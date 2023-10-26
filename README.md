@@ -108,3 +108,5 @@ cloudflare_zone_dnssec | Zone
 [[GitHub - cloudflare/cf-terraforming: A command line utility to facilitate terraforming your existing Cloudflare resources.](https://github.com/cloudflare/cf-terraforming#supported-resources)](https://github.com/cloudflare/cf-terraforming#supported-resources)
 
 https://developers.cloudflare.com/learning-paths/get-started/
+
+https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs
